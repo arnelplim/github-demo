@@ -1,5 +1,3 @@
 Test GIT Quick Start demo
 1st commit to demo-branch1
 1st commit to demo-branch2
-2nd commit to demo-branch1
-
